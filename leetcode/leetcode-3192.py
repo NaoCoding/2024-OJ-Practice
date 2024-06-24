@@ -1,4 +1,3 @@
-```py
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
         ans = 0
@@ -11,4 +10,4 @@ class Solution:
                 flag = (flag + 1) % 2
 
         return ans 
-```
+
