@@ -1,4 +1,4 @@
-Records only includes specific difficulty problems.
+Records only includes specific difficulty problems.<br>
 
-Codeforces: 1400+
-LeetCode: Medium+
+Codeforces: 1400+ <br>
+LeetCode: Medium+<br>
